@@ -50,6 +50,12 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
     * Role: Leader of Ukranian Insurgent Army [[ref][report_euromaidan]]
 
 
+## Study: Labor Institutions in Ukraine
+
+### Focus: Confederation of Free Labor Unions
+
+* Targeted by attackers during Euromaidan  [[ref][report_euromaidan]]
+
 ## Events
 
 * Note: Definition of phrase, "Maidan" (Ukraine)
