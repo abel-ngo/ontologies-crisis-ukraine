@@ -35,15 +35,20 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 * Persona: Yury Noyevy
     * Role: Participation on Svoboda leadership council [[ref][report_euromaidan]]
 
+* Persona: Ihor Miroshnychenko
+    * Role: Chief of Svoboda leadership council [[ref][report_euromaidan]]
+    * Theme: Antisemitism [[ref][report_euromaidan]]
+
 #### Other Entities
 
 * Organization: Ukranian Insurgent Army
     * Presence: _"fought the Soviets for an independent Ukranian state" [[ref][report_euromaidan]]_
     * Presence: Massacre of tens of thousands of Polish civilians [[ref][report_euromaidan]]
-    * Presence (asserted): Participating in massacre of Jewish persons in Ukrain during Nazi occupation of Ukraine [[ref][report_euromaidan]]
+    * Presence (asserted): Participating in massacre of Jewish persons in Ukraine during Nazi occupation of Ukraine [[ref][report_euromaidan]]
 
 * Persona: Stepan Bandera
     * Role: Leader of Ukranian Insurgent Army [[ref][report_euromaidan]]
+
 
 ## Events
 
