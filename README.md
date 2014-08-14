@@ -101,6 +101,7 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 * Anti-tank barricades
 
+<<<<<<< HEAD
 ## Focus on Crimea
 
 * [...] Russia [...]
@@ -133,3 +134,36 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
 [refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
 [novowp]: http://en.wikipedia.org.advanc.io/wiki/Novorussia
+=======
+## Crimea
+
+* [...] Russia [...]
+
+## Independent Republics
+
+### Focus on Lugansk People's Republic
+
+* Previously: Lugasnk Oblast [[ref][refnd2014]]
+* Established: 11 May 2014 [[ref][refnd2014]]
+* [...]
+
+### Focus on Donetsk
+
+* Previously: Donestk Oblast [[ref][refnd2014]]
+* Established: 11 May 2014 [[ref][refnd2014]]
+* [...]
+
+#### Focus on Donbas
+
+[...]
+
+### Focus on Novorussia
+
+[...]
+
+
+### ...
+
+[report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
+[refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
+>>>>>>> 73ab068290d3ac19b891419ef515aaa26f89f6f2
