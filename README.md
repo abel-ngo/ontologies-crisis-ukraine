@@ -3,6 +3,8 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 **Availability:** [git@github.com:abel-ngo/ontologies-crisis-ukraine.git](https://github.com/abel-ngo/ontologies-crisis-ukraine)
 
+**Status:** Updates proceeding
+
 # Notes
 
 ## Extremism in Ukraine State Institutions
@@ -99,13 +101,34 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 * Anti-tank barricades
 
+## Crimea
+
+* [...] Russia [...]
+
 ## Independent Republics
 
-(To Do: Illustrate timelines of origins)
+### Focus on Lugansk People's Republic
 
-* Lugansk People's Republic
-* Donbass
-* Novorussia
-* ...
+* Previously: Lugasnk Oblast [[ref][refnd2014]]
+* Established: 11 May 2014 [[ref][refnd2014]]
+* [...]
+
+### Focus on Donetsk
+
+* Previously: Donetsk Oblast [[ref][refnd2014]]
+* Established: 11 May 2014 [[ref][refnd2014]]
+* [...]
+
+#### Focus on Donbas
+
+[...]
+
+### Focus on Novorussia
+
+[...]
+
+
+### ...
 
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
+[refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
