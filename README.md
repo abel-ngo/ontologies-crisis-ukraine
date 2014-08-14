@@ -129,7 +129,6 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 [...]
 
 
-### ...
 
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
 [refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
