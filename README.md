@@ -101,11 +101,16 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 * Anti-tank barricades
 
-## Crimea
+## Focus on Crimea
 
 * [...] Russia [...]
 
-## Independent Republics
+## Independent Republics of Novorussia
+
+### Focus on Novorussia (Gepolotical Entity)
+
+* Formed of Luganks and Donetsk People's Republic [[ref][novowp]]
+* Established: 22 May 2014 [[ref][novowp]]
 
 ### Focus on Lugansk People's Republic
 
@@ -123,12 +128,9 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 [...]
 
-### Focus on Novorussia
-
-[...]
-
 
 ### ...
 
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
 [refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
+[novowp]: http://en.wikipedia.org.advanc.io/wiki/Novorussia
