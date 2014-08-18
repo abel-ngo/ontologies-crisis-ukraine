@@ -172,11 +172,11 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ### Region: "East Ukraine"
 
-* Summary of cultural and political sentiments: _See [[ref][antim]]_
+* Summary of cultural and political sentiments: _See [[ref][antimB]]_
 
 ### Region: "West Ukraine"
 
-* Summary of cultural and political sentiments: _See [[ref][antim]]_
+* Summary of cultural and political sentiments: _See [[ref][antimB]]_
 
 ### Capital Locale : Kiev
 
