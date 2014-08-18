@@ -183,6 +183,8 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ## Locale: Ukraine
 
+_Ed Note: There is a certain geographic overlap in East Ukraine, thus to the incidents of the fratricidal war in Ukraine_
+
 ### Region: "East Ukraine"
 
 * Summary of cultural and political sentiments: _See [[ref][antimB]]_
