@@ -168,6 +168,19 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 [...]
 
+## Cultural Resources of Novorossyia
+
+[...]
+
+## Natural Resources of Novorossyia
+
+### Petroleum Resources
+
+#### Shale Mining / Hydraulic Facturing / "Fracking"
+
+* Affiliation: Chevron, Inc - planning reported 5 Apr 2014 [[ref](http://www.sfgate.com/news/article/Chevron-has-no-plans-to-end-fracking-agreement-5379794.php)]
+* Affiliation: Shell, Inc - planning halted 3 June 2014 [[ref](http://www.bloomberg.com/news/2014-06-03/ukraine-crisis-forces-shell-to-halt-shale-wells-in-restive-east.html)]
+
 ## Locale: Ukraine
 
 ### Region: "East Ukraine"
