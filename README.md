@@ -66,6 +66,12 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 * Concept: Anti-Maidan [[ref](http://en.wikipedia.org.advanc.io/wiki/Anti-Maidan)]
 * Locale: _Maidan Nezalezhnosti_ (Independence Square) Ukraine [[ref](http://en.wikipedia.org.advanc.io/wiki/Maidan_Nezalezhnosti)]
 
+### Actions by NATO
+
+_Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context with public statements about political situations in Ukraine_
+
+* ...
+
 ## Events
 
 * Note: Definition of phrase, "Maidan" (Ukraine)
@@ -109,11 +115,11 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 * Anti-tank barricades
 
-## Focus on Crimea
+## Locale: Crimea
 
-* [...] Russia [...]
+* [...]
 
-## Independent Republics of Novorussia
+## Locale: Independent Republics of Novorussia
 
 ### Focus on Novorussia (Gepolotical Entity)
 
@@ -136,8 +142,22 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 [...]
 
+## Locale: Ukraine
+
+### Region: "East Ukraine"
+
+* Summary of cultural and political sentiments: _See [[ref][antim]]_
+
+### Region: "West Ukraine"
+
+* Summary of cultural and political sentiments: _See [[ref][antim]]_
+
+### Capital Locale : Kiev
+
+* ...
 
 
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
 [refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
 [novowp]: http://en.wikipedia.org.advanc.io/wiki/Novorussia
+[antimB]: http://www.globalresearch.ca/ukraine-the-anti-maidan-begins/5377773
