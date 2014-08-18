@@ -70,8 +70,8 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context with public statements about political situations in Ukraine_
 
-* Allegation: "Mystery Gunmen" [[ref](http://journal-neo.org/2014/03/20/nato-s-mystery-gunmen-seek-to-strengthen-kiev-regime-s-hand/)]
-*
+* Allegation: "Mystery Gunmen" supporting Ukraine military [[ref](http://journal-neo.org/2014/03/20/nato-s-mystery-gunmen-seek-to-strengthen-kiev-regime-s-hand/)]
+
 
 ### Journalism in Ukraine
 
