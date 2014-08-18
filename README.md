@@ -90,7 +90,9 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 #### Journalists Lost and Missing
 
+* 16 Sept 2000: Heorgyi Gongadze disappears [[ref][bramaUkr20]]
 * _[In the line of fire: Journalists killed and abducted in Eastern Ukraine](http://rt.com/news/180140-journalists-killed-abducted-ukraine/)_
+
 
 ## Events
 
@@ -181,6 +183,8 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ### Government in Ukraine
 
+* Event: 28 June 1996, Ukraine Constitution [[ref][bramaUkr20]]
+
 #### Verkhovna Rada (Ukraine Parliament)
 
 [...]
@@ -199,7 +203,7 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ### [...]
 
-### Relations of Other Governments
+### Relations of Other Governments and Governmental Institutions
 
 #### Relations of US Government
 
@@ -215,6 +219,19 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 * Humanitarian Aid Convoy [...]
 * Allegations of distribution of military personnel, equipment (various) [...
 * [...]
+
+#### NATO
+
+[...]
+
+### BRICS
+
+[...]
+
+### EU
+
+[...]
+
 
 ### Sanctions to Russia in Response to Events in Ukraine
 
@@ -239,3 +256,4 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
 [refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
 [novowp]: http://en.wikipedia.org.advanc.io/wiki/Novorussia
 [antimB]: http://www.globalresearch.ca/ukraine-the-anti-maidan-begins/5377773
+[bramaUkr20]: http://www.brama.com/ukraine/history/century20.html
