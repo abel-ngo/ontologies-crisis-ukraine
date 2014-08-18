@@ -113,7 +113,7 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ### Focus: Maidan in Kiev, around 9 August
 
-* Anti-tank barricades
+* Barricades
 
 ## Locale: Crimea
 
