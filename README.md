@@ -97,7 +97,7 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 #### "Pro-Russian Activists" as "Terrorists"
 
 * Event: Photographs of beating of a "pro-Russian actvisit" [[ref](http://www.reuters.com/article/2014/08/16/us-ukraine-crisis-idUSKBN0GF13120140816)]
-* Observation: Characteristics ascribed to _self defense forces_ in _Crimea_
+* Observation: Characteristics ascribed to _self defense forces_ in _Crimea_ - differing views of whether "Russian" or independent [[ref](http://www.bbc.com/news/world-europe-26609667)][[ref](http://www.npr.org/blogs/thetwo-way/2014/03/04/285653335/putin-says-those-arent-russian-forces-in-crimea)]
 
 * Press release by Ukraine's _NSDC_ at Ukrinform: Dontesk ascribed as location of "Terrorists" [[ref](http://www.ukrinform.ua/eng/news/most_terrorists_planning_to_leave_donetsk_region_by_august_18___nsdc_325414)]
 * Observation: Anti-Moscow/Anti-Russia sentiments expressed by persons in Ukraine
