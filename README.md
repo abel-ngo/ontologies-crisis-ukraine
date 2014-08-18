@@ -22,6 +22,7 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 #### Politics - Focus on Right Sector
 
+* "Pravyi"
 * See also: _Focus: Euromaidan_
 * Terrorist Threat: Sabotage of industrial pipelines [[ref](http://voiceofrussia.com/news/2014_03_16/Right-Sector-leader-threatens-to-sabotage-Russian-pipelines-in-Ukraine-2512/)]
 * Statement by Russian officials: _“The Kiev government fails to control numerous armed groups, including the Right Sector"_ - Minister Lavrov, Russia [[ref](http://en.ria.ru/world/20140818/192114986/Kiev-Not-in-Control-of-Right-Sector-Radicals---Lavrov.html)]
