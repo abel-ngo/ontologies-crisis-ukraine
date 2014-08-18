@@ -72,6 +72,25 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 * ...
 
+### Journalism in Ukraine
+
+#### US Support of Journalism in Ukraine
+
+* [Senate Bill S.2183](https://beta.congress.gov/bill/113th-congress/senate-bill/2183/text)
+
+#### Censorship by Ukraine Government
+
+* Ukraine National Security and Defense Council (RNBO) establishes law allowing for bans on media, broadcasting [[ref](http://en.rsf.org/ukraine-ukrainian-parliament-approves-very-12-08-2014,46793.html)]
+
+#### Banning and Deportation of Journalists
+
+* Grahama Phillips banned from Ukraine [[ref](http://linkis.com/rt.com/op-edge/17613/kYpJ6)]
+* Elina Epirman expelled from Ukraine [[ref](http://rt.com/news/177440-ruptly-producer-kicked-out-ukraine/)]
+
+#### Journalists Lost and Missing
+
+* _[In the line of fire: Journalists killed and abducted in Eastern Ukraine](http://rt.com/news/180140-journalists-killed-abducted-ukraine/)_
+
 ## Events
 
 * Note: Definition of phrase, "Maidan" (Ukraine)
