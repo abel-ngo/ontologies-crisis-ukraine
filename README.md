@@ -86,7 +86,7 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 #### Banning and Deportation of Journalists
 
-* Grahama Phillips banned from Ukraine [[ref](http://linkis.com/rt.com/op-edge/17613/kYpJ6)]
+* Graham Phillips banned from Ukraine [[ref](http://linkis.com/rt.com/op-edge/17613/kYpJ6)]
 * Elina Epirman expelled from Ukraine [[ref](http://rt.com/news/177440-ruptly-producer-kicked-out-ukraine/)]
 
 #### Journalists Lost and Missing
@@ -149,7 +149,7 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ### Focus on Novorussia (Gepolotical Entity)
 
-* Formed of Luganks and Donetsk People's Republic [[ref][novowp]]
+* Formed of Lugansk and Donetsk People's Republic [[ref][novowp]]
 * Established: 22 May 2014 [[ref][novowp]]
 
 ### Focus on Lugansk People's Republic
