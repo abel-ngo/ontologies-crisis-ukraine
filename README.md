@@ -141,7 +141,9 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 ## Locale: Crimea
 
 * [...]
-* See also: _Relations of Russian Government_
+* Event: "Pro-Russian Self Defense Forces" in Crimea [[ref](http://www.bbc.com/news/world-europe-26609667)][[ref](http://www.npr.org/blogs/thetwo-way/2014/03/04/285653335/putin-says-those-arent-russian-forces-in-crimea)]
+* Event: Seizure of news media in Crimea [[S.2183](https://beta.congress.gov/bill/113th-congress/senate-bill/2183/text)]
+* Event: Referrendum 16 March [[ref][wpIndepCrimea]]
 
 ## Locale: Independent Republics of Novorussia
 
@@ -261,3 +263,4 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
 [novowp]: http://en.wikipedia.org.advanc.io/wiki/Novorussia
 [antimB]: http://www.globalresearch.ca/ukraine-the-anti-maidan-begins/5377773
 [bramaUkr20]: http://www.brama.com/ukraine/history/century20.html
+[wpIndepCrimea]: http://en.wikipedia.org.advanc.io/wiki/Declaration_of_Independence_of_the_Republic_of_Crimea
