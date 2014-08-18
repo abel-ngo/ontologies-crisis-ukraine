@@ -66,11 +66,12 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 * Concept: Anti-Maidan [[ref](http://en.wikipedia.org.advanc.io/wiki/Anti-Maidan)]
 * Locale: _Maidan Nezalezhnosti_ (Independence Square) Ukraine [[ref](http://en.wikipedia.org.advanc.io/wiki/Maidan_Nezalezhnosti)]
 
-### Actions by NATO
+### Actions Attributed to NATO
 
 _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context with public statements about political situations in Ukraine_
 
-* ...
+* Allegation: "Mystery Gunmen" [[ref](http://journal-neo.org/2014/03/20/nato-s-mystery-gunmen-seek-to-strengthen-kiev-regime-s-hand/)]
+*
 
 ### Journalism in Ukraine
 
@@ -80,7 +81,7 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 #### Censorship by Ukraine Government
 
-* Ukraine National Security and Defense Council (RNBO) establishes law allowing for bans on media, broadcasting [[ref](http://en.rsf.org/ukraine-ukrainian-parliament-approves-very-12-08-2014,46793.html)]
+* Ukraine National Security and Defense Council (RNBO) establishes law allowing for cenorship and bans on media, broadcasting [[ref](http://en.rsf.org/ukraine-ukrainian-parliament-approves-very-12-08-2014,46793.html)]
 
 #### Banning and Deportation of Journalists
 
