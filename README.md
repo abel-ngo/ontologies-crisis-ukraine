@@ -23,7 +23,8 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 #### Politics - Focus on Right Sector
 
 * See also: _Focus: Euromaidan_
-
+* Terrorist Threat: Sabotage of industrial pipelines [[ref](http://voiceofrussia.com/news/2014_03_16/Right-Sector-leader-threatens-to-sabotage-Russian-pipelines-in-Ukraine-2512/)]
+* Statement by Russian officials: _“The Kiev government fails to control numerous armed groups, including the Right Sector"_ - Minister Lavrov, Russia [[ref](http://en.ria.ru/world/20140818/192114986/Kiev-Not-in-Control-of-Right-Sector-Radicals---Lavrov.html)]
 
 #### Politics - Focus on Svoboda
 
@@ -71,7 +72,6 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context with public statements about political situations in Ukraine_
 
 * Allegation: "Mystery Gunmen" supporting Ukraine military [[ref](http://journal-neo.org/2014/03/20/nato-s-mystery-gunmen-seek-to-strengthen-kiev-regime-s-hand/)]
-
 
 ### Journalism in Ukraine
 
@@ -174,7 +174,65 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ### Capital Locale : Kiev
 
-* ...
+* [...]
+
+
+## Governments
+
+### Government in Ukraine
+
+#### Verkhovna Rada (Ukraine Parliament)
+
+[...]
+
+#### Presidency in Ukraine
+
+[...]
+
+#### Ukraine Ministry of Defense
+
+[...]
+
+#### Ukraine Ministry of Internal Affairs
+
+[...]
+
+### [...]
+
+### Relations of Other Governments
+
+#### Relations of US Government
+
+* Member NATO
+* See also: _Senate Bill S.2183_
+* Date Unknown: Senator McCain visits Ukraine, dinner with Svboda Leadership [[ref][report_euromaidan]]
+* Date TBD: US government officials propose support for sanctions on Russia
+* [...]
+
+#### Relations of Russian Government
+
+* Member BRICS
+* Humanitarian Aid Convoy [...]
+* Allegations of distribution of military personnel, equipment (various) [...
+* [...]
+
+### Sanctions to Russia in Response to Events in Ukraine
+
+_Ed note: These sanctions might be viewed as an initial action in an "Economic wargame"_
+
+* Origins: [...]
+* [...]
+* Effects on Regional Economies: [...]
+* Effects within international political ciricles: _See following outline_
+
+
+### Import Bans by Russia in Response to Sanctions
+
+* [...]
+
+### Sanctions Proposed by Ukraine in Response to Russia Import Bans
+
+* [...]
 
 
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
