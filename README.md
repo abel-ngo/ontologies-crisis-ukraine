@@ -58,6 +58,14 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 * Targeted by attackers during Euromaidan  [[ref][report_euromaidan]]
 
+## Focus: Cultural Concepts
+
+### Definition of phrase, "Maidan"
+
+* Event: Euromaidan - see _Focus: Euromaidan_
+* Concept: Anti-Maidan [[ref](http://en.wikipedia.org.advanc.io/wiki/Anti-Maidan)]
+* Locale: _Maidan Nezalezhnosti_ (Independence Square) Ukraine [[ref](http://en.wikipedia.org.advanc.io/wiki/Maidan_Nezalezhnosti)]
+
 ## Events
 
 * Note: Definition of phrase, "Maidan" (Ukraine)
