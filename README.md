@@ -22,15 +22,40 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 #### Politics - Focus on Right Sector
 
-* "Pravyi"
-* See also: _Focus: Euromaidan_
-* Terrorist Threat: Sabotage of industrial pipelines [[ref](http://voiceofrussia.com/news/2014_03_16/Right-Sector-leader-threatens-to-sabotage-Russian-pipelines-in-Ukraine-2512/)]
-* Statement by Russian officials: _“The Kiev government fails to control numerous armed groups, including the Right Sector"_ - Minister Lavrov, Russia [[ref](http://en.ria.ru/world/20140818/192114986/Kiev-Not-in-Control-of-Right-Sector-Radicals---Lavrov.html)]
+
+* Social Entity: "Right Sector"
+    * Alternate Name: "Pravyi Sector"
+    * See also: _Focus: Euromaidan_
+    * Founder: _Trizub_ [[ref][varYaroshMaidan]]
+    * Participation in terrorist threats: Threatened sabotage of industrial pipelines [[ref](http://voiceofrussia.com/news/2014_03_16/Right-Sector-leader-threatens-to-sabotage-Russian-pipelines-in-Ukraine-2512/)]
+    * Present during _Euromaidan_ [[ref][gr0405]]
+    * Statement by Russian officials: _“The Kiev government fails to control numerous armed groups, including the Right Sector"_ - Minister Lavrov, Russia [[ref](http://en.ria.ru/world/20140818/192114986/Kiev-Not-in-Control-of-Right-Sector-Radicals---Lavrov.html)]
+    * Event: Ultimatim threatening Kiev, 18 August 2014, subsequently withdrawn [[ref](http://en.ria.ru/world/20140817/192093814/Right-Sector-Not-Going-to-Attack-Kiev-Some-of-Requirements.html)]
+
+
+* Social Entity: Trizub
+    * Founded by Yarosh, circa 1991 [[ref][vorYaroshMaidan]]
+    * Relation to: Stepan Bandera [[ref][vorYaroshMaidan]]
+
+* Social Entity: "Revolutionary National Guard"
+    * Founded by Yarosh [[ref][vorYaroshMaidan]]
+    * See also: [[EMPR](https://www.youtube.com/watch?v=ePZp5NLIglQ)]
+
+* Persona: Dmytro Yarosh
+    * Indicted by INTERPOL[[INTERPOL](http://www.interpol.int/notice/search/wanted/2014-16549)]
+        * Charges: 1. _Public incitement to terrorist activities involving the use of mass media_; 2. _Public incitement to extremist activities involving the use of mass media_
+    * Participation in Euromaidan [...]
+        * Speech making [[ref][gr0405]]
+        * Leader of _Brown Shirts_ [[ref][gr0405]]
+    * [...]
+    * Theme: Anti-Moscow sentiment [[EMPR](https://www.youtube.com/watch?v=ePZp5NLIglQ)]
 
 #### Politics - Focus on Svoboda
 
 * Persona: Oleh Tyahnybok
     * Theme: Antisemitism[[ref][report_euromaidan]]
+    * Attributed w/ political designs in spectrum with _Stepan Bandera_ [[ref][gr0405]]
+    * Role: Participation on Svoboda leadership council [[ref][gr0405]]
 
 * Event: Torchlight proceedings
     * Instance: January 1 2014 [[ref][report_euromaidan]]
@@ -43,13 +68,18 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
     * Role: Chief of Svoboda leadership council [[ref][report_euromaidan]]
     * Theme: Antisemitism [[ref][report_euromaidan]]
 
+* Persona: Andriy Parubiy
+    * Role: Co-founder of _Social-National Party of Ukraine_, predecessor of _Svboda_ [[ref][gr0405]]
+    * Chief of Ukraine government _RNBOU_, circa March 2005 [[ref][gr0405]]
+    * Attributed w/ political designs in spectrum with _Stepan Bandera_ [[ref][gr0405]]
+
 #### Other Entities
 
 * Organization: Ukranian Insurgent Army
     * Presence: _"fought the Soviets for an independent Ukranian state" [[ref][report_euromaidan]]_
     * Presence: Massacre of tens of thousands of Polish civilians [[ref][report_euromaidan]]
     * Presence (asserted): Participating in massacre of Jewish persons in Ukraine during Nazi occupation of Ukraine [[ref][report_euromaidan]]
-
+7
 * Persona: Stepan Bandera
     * Role: Leader of Ukranian Insurgent Army [[ref][report_euromaidan]]
 
@@ -62,11 +92,27 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 ## Focus: Cultural Concepts
 
+### Conflicts in Narratives
+
+#### "Pro-Russian Activists" as "Terrorists"
+
+* Event: Photographs of beating of a "pro-Russian actvisit" [[ref](http://www.reuters.com/article/2014/08/16/us-ukraine-crisis-idUSKBN0GF13120140816)]
+* Observation: Characteristics ascribed to _self defense forces_ in _Crimea_
+
+* Press release by Ukraine's _NSDC_ at Ukrinform: Dontesk ascribed as location of "Terrorists" [[ref](http://www.ukrinform.ua/eng/news/most_terrorists_planning_to_leave_donetsk_region_by_august_18___nsdc_325414)]
+* Observation: Anti-Moscow/Anti-Russia sentiments expressed by persons in Ukraine
+
 ### Definition of phrase, "Maidan"
 
 * Event: Euromaidan - see _Focus: Euromaidan_
 * Concept: Anti-Maidan [[ref](http://en.wikipedia.org.advanc.io/wiki/Anti-Maidan)]
-* Locale: _Maidan Nezalezhnosti_ (Independence Square) Ukraine [[ref](http://en.wikipedia.org.advanc.io/wiki/Maidan_Nezalezhnosti)]
+
+#### Locale: _Maidan Nezalezhnosti_ (Independence Square) Ukraine
+
+* Location of civic buildings, 19th Century [[ref][wpMaidanNez]]
+* Site of some protests during 2004 _Orange Revolution_ [[ref](http://www.nybooks.com/articles/archives/2005/apr/28/the-orange-revolution/)]
+* Primary site of _Euromaidan_ [[ref][wpEuromaidan]]
+
 
 ### Actions Attributed to NATO
 
@@ -112,6 +158,8 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
     * Duration: 2 months+ (?)
     * Assertion: lead by "Coalition of three opposition parties"
         * Member of coalition: Svoboda
+        * Assertion: Coalition attributed with responsibility for shooting of protestors during Euromaidan, est. 20+ casualties [[ref][gr0405]]
+            * **These acts of murderous political violence were attributed to President Yanukovych, subsequently were instrumental in removal of President Yanukovych from office** [[ref][gr0405]]
     * Presence: Right Sector
         * Actions: Attacking police
     * Presence: Svoboda
@@ -185,6 +233,17 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 _Ed Note: There is a certain geographic overlap in East Ukraine, thus to the incidents of the fratricidal war in Ukraine_
 
+### History of Ukraine
+
+* [...]
+
+#### 2004: Orange Revolution
+
+* Event: Protests
+    * Theme: surrounding presidential candidacy of Victor Yanukovych [[ref](http://www.themoscowtimes.com/news/article/ukrainian-protests-compared-to-2004-orange-revolution/490205.html)
+    * Following event: Election of Viktor Yushchenko [[ref](http://www.themoscowtimes.com/news/article/ukrainian-protests-compared-to-2004-orange-revolution/490205.html)
+    * Multiple sites of protests  [[ref](http://www.themoscowtimes.com/news/article/ukrainian-protests-compared-to-2004-orange-revolution/490205.html)
+
 ### Region: "East Ukraine"
 
 * Summary of cultural and political sentiments: _See [[ref][antimB]]_
@@ -220,6 +279,15 @@ _Ed Note: There is a certain geographic overlap in East Ukraine, thus to the inc
 
 [...]
 
+#### National Security and National Defense Committee (RNBOU)
+
+_Ed Note: Relation to Ukraine's NSDC?_
+
+* Chief secretary: _Andriy Parubiy_ [[ref][gr0405]]
+* Deputy secretary: _Dmytro Yarosh_ [[ref][gr0405]]
+* [...]
+
+
 ### [...]
 
 ### Relations of Other Governments and Governmental Institutions
@@ -247,7 +315,12 @@ _Ed Note: There is a certain geographic overlap in East Ukraine, thus to the inc
 
 ### BRICS
 
-[...]
+* Member Country: Brazil
+* Member Country: Russia
+* Member Country: India
+* Member Country: China
+* Member Country: South Africa
+* [...]
 
 ### EU
 
@@ -273,9 +346,13 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
 * [...]
 
 
+[wpMaidanNez]: http://en.wikipedia.org.advanc.io/wiki/Maidan_Nezalezhnosti
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
+[wpEuromaidan]: http://en.wikipedia.org.advanc.io/wiki/Euromaidan
 [refnd2014]: http://en.wikipedia.org.advanc.io/wiki/Donetsk_and_Luhansk_status_referendums,_2014
 [novowp]: http://en.wikipedia.org.advanc.io/wiki/Novorussia
 [antimB]: http://www.globalresearch.ca/ukraine-the-anti-maidan-begins/5377773
 [bramaUkr20]: http://www.brama.com/ukraine/history/century20.html
 [wpIndepCrimea]: http://en.wikipedia.org.advanc.io/wiki/Declaration_of_Independence_of_the_Republic_of_Crimea
+[vorYaroshMaidan]: http://voiceofrussia.com/news/2014_02_04/Dmitry-Yarosh-the-commander-of-Maidan-s-Right-Sector-8928/
+[gr0405]: http://www.globalresearch.ca/leaked-telephone-conversation-ukraine-sniper-killings-of-opposition-protesters-ordered-by-opposition-leaders-blamed-on-yanukovych/5372013
