@@ -140,6 +140,7 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 ## Locale: Crimea
 
 * [...]
+* See also: _Relations of Russian Government_
 
 ## Locale: Independent Republics of Novorussia
 
@@ -217,7 +218,9 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 * Member BRICS
 * Humanitarian Aid Convoy [...]
-* Allegations of distribution of military personnel, equipment (various) [...
+* Allegations of distribution of military personnel, equipment (various) [..]
+* Allegation: Seizure of television stations, censorship in Crimea [[S.2183](https://beta.congress.gov/bill/113th-congress/senate-bill/2183/text)] (previous to _Declaration of Independence of the Republic of Crimea_)
+
 * [...]
 
 #### NATO
