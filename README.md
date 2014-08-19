@@ -26,7 +26,7 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 * Social Entity: "Right Sector"
     * Alternate Name: "Pravyi Sector"
     * See also: _Focus: Euromaidan_
-    * Founder: _Trizub_ [[ref][vorYaroshMaidan]]
+    * Founder:[[ref][vorYaroshMaidan]]
     * Participation in terrorist threats: Threatened sabotage of industrial pipelines [[ref](http://voiceofrussia.com/news/2014_03_16/Right-Sector-leader-threatens-to-sabotage-Russian-pipelines-in-Ukraine-2512/)]
     * Present during _Euromaidan_ [[ref][gr0405]]
     * Statement by Russian officials: _“The Kiev government fails to control numerous armed groups, including the Right Sector"_ - Minister Lavrov, Russia [[ref](http://en.ria.ru/world/20140818/192114986/Kiev-Not-in-Control-of-Right-Sector-Radicals---Lavrov.html)]
