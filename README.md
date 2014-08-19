@@ -197,9 +197,13 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 
 ### Various
 
+(Updates: Backlogged)
+
 * Destruction of person's homes
 * Destruction of national monuments
 * Destruction of hospitals
+* Shelling of schools
+    * [School damaged in CHeremushki; Casualties](http://lifenews.ru/news/138644)
 * Attacks on churches
 
 ### Focus: Maidan in Kiev, around 9 August
