@@ -149,6 +149,7 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
 #### Censorship by Ukraine Government
 
 * Ukraine National Security and Defense Council (RNBO) establishes law allowing for cenorship and bans on media, broadcasting [[ref](http://en.rsf.org/ukraine-ukrainian-parliament-approves-very-12-08-2014,46793.html)]
+* Ban on Russian television in Ukraine [[ref](http://russian.rt.com/article/46036)
 
 #### Banning and Deportation of Journalists
 
