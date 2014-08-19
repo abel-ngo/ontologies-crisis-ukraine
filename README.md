@@ -332,10 +332,12 @@ _Ed Note: Relation to Ukraine's NSDC?_
 
 #### NATO
 
+* Origins: (Dates, context TBD)
 [...]
 
 ### BRICS
 
+* Origins: (Dates, context TBD)
 * Member Country: Brazil
 * Member Country: Russia
 * Member Country: India
@@ -345,6 +347,7 @@ _Ed Note: Relation to Ukraine's NSDC?_
 
 ### EU
 
+* Origin: (Dates, context TBD)
 [...]
 
 
