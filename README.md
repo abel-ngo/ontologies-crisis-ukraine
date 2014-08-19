@@ -92,6 +92,26 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 ## Focus: Cultural Concepts
 
+### Ceasefire Discussions
+
+* [...]
+
+#### Berlin Discussions for Ukraine Ceasefire, Weekend of 16 August 2014
+
+* Participant: Foreign Ministry of Russia  [[ref][ria20140818]]
+* Participant: Foreign Ministry of Ukraine [[ref][ria20140818]]
+* Participant: Foreign Ministry of Germany  [[ref][ria20140818]]
+* Participant: Foreign Ministry of France [[ref][ria20140818]]
+* Host: Germany
+
+#### Ceasefire at MH17 Crash Site
+
+* [...]
+
+### Humanitarian Aid Convoy
+
+* [...]
+
 ### Conflicts in Narratives
 
 #### "Pro-Russian Activists" as "Terrorists"
@@ -303,9 +323,10 @@ _Ed Note: Relation to Ukraine's NSDC?_
 #### Relations of Russian Government
 
 * Member BRICS
-* Humanitarian Aid Convoy [...]
+* See also: _Humanitarian Aid Convoy_
+* See also: _Berlin Discussions for Ukraine Ceasefire_
 * Allegations of distribution of military personnel, equipment (various) [..]
-* Allegation: Seizure of television stations, censorship in Crimea [[S.2183](https://beta.congress.gov/bill/113th-congress/senate-bill/2183/text)] (previous to _Declaration of Independence of the Republic of Crimea_)
+* Allegation: Seizure of television stations, censorship in Crimea [[S.2183][s2183]] (previous to _Declaration of Independence of the Republic of Crimea_)
 
 * [...]
 
@@ -346,6 +367,29 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
 * [...]
 
 
+# Metamodel
+
+## Additional Core Ontology Items
+
+* To Do: Integrate [AgRelOn](http://www.contentus-projekt.de/agrelon.html)
+* To Do: Define ontology for _acts of legislatures/parliaments_
+    * US Senate Bill [S.2183][s2183]
+        * Context: Journalism in Ukraine
+        * Action item: Support made avaialble under S.2183 is clearly countermanded by censorship in Ukraine
+    * UN Security Council Resolution [2166](http://www.un.org/en/ga/search/view_doc.asp?symbol=S/RES/2166(2014)
+        * Context: Crash of Malaysian Airlines flight MH-17
+        * Context: Investigation of loss of MH-17
+    * Rada measures, Ukraine
+    * [...]
+* To Do: Define presentation model for ontology entities
+    * Context: Personas
+    * Context: Social Entities
+    * Context: Locales
+    * Context: Events
+    * In each context:
+        * Illustration of timelines
+        * Illustration or related ontology entities
+
 [wpMaidanNez]: http://en.wikipedia.org.advanc.io/wiki/Maidan_Nezalezhnosti
 [report_euromaidan]: http://www.thenation.com/article/178013/ukrainian-nationalism-heart-euromaidan
 [wpEuromaidan]: http://en.wikipedia.org.advanc.io/wiki/Euromaidan
@@ -356,3 +400,5 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
 [wpIndepCrimea]: http://en.wikipedia.org.advanc.io/wiki/Declaration_of_Independence_of_the_Republic_of_Crimea
 [vorYaroshMaidan]: http://voiceofrussia.com/news/2014_02_04/Dmitry-Yarosh-the-commander-of-Maidan-s-Right-Sector-8928/
 [gr0405]: http://www.globalresearch.ca/leaked-telephone-conversation-ukraine-sniper-killings-of-opposition-protesters-ordered-by-opposition-leaders-blamed-on-yanukovych/5372013
+[ria20140818]: http://en.ria.ru/russia/20140818/192100878/Progress-Made-During-Four-Party-Ukraine-Talks--Germanys-Steinmeier.html
+[s2183]: https://beta.congress.gov/bill/113th-congress/senate-bill/2183/text
