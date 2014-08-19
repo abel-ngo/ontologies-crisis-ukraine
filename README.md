@@ -376,7 +376,7 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
     * US Senate Bill [S.2183][s2183]
         * Context: Journalism in Ukraine
         * Action item: Support made avaialble under S.2183 is clearly countermanded by censorship in Ukraine
-    * UN Security Council Resolution [S/RES/2166](http://www.un.org/en/ga/search/view_doc.asp?symbol=S/RES/2166(2014)
+    * UN Security Council Resolution [S/RES/2166][unSRes2166]
         * Context: Crash of Malaysian Airlines flight MH-17
         * Context: Investigation of loss of MH-17
     * Rada measures, Ukraine
@@ -402,3 +402,4 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
 [gr0405]: http://www.globalresearch.ca/leaked-telephone-conversation-ukraine-sniper-killings-of-opposition-protesters-ordered-by-opposition-leaders-blamed-on-yanukovych/5372013
 [ria20140818]: http://en.ria.ru/russia/20140818/192100878/Progress-Made-During-Four-Party-Ukraine-Talks--Germanys-Steinmeier.html
 [s2183]: https://beta.congress.gov/bill/113th-congress/senate-bill/2183/text
+[unSRes2166]: http://www.un.org/en/ga/search/view_doc.asp?symbol=S/RES/2166(2014)
