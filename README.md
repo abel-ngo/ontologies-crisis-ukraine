@@ -376,7 +376,7 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
     * US Senate Bill [S.2183][s2183]
         * Context: Journalism in Ukraine
         * Action item: Support made avaialble under S.2183 is clearly countermanded by censorship in Ukraine
-    * UN Security Council Resolution [2166](http://www.un.org/en/ga/search/view_doc.asp?symbol=S/RES/2166(2014)
+    * UN Security Council Resolution [S/RES/2166](http://www.un.org/en/ga/search/view_doc.asp?symbol=S/RES/2166(2014)
         * Context: Crash of Malaysian Airlines flight MH-17
         * Context: Investigation of loss of MH-17
     * Rada measures, Ukraine
