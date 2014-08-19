@@ -379,6 +379,8 @@ _Ed note: These sanctions might be viewed as an initial action in an "Economic w
     * UN Security Council Resolution [S/RES/2166][unSRes2166]
         * Context: Crash of Malaysian Airlines flight MH-17
         * Context: Investigation of loss of MH-17
+        * Context: Proceedings of ceasefire at MH-17 crash site
+        * Proceedings Event: _[Заявление для СМИ Постоянного представителя Российской Федерации при ООН В.И.Чуркина по ситуации на Украине (Statement to the media by the Permanent Representative of the Russian Federation, Vitaly Churkin, on the Situation in Ukraine)](http://www.russiaun.ru/ru/news/so_ukr708)_
     * Rada measures, Ukraine
     * [...]
 * To Do: Define presentation model for ontology entities
