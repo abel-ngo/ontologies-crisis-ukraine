@@ -195,16 +195,19 @@ _Ed. Note: NATO is often referenced like in a sense of "NWO powers" in context w
     * Theme: "East" / "West" polarization, nationalism, social agendas
 
 
-### Various
+### Records of Civilian Casualities of War
 
 (Updates: Backlogged)
 
+* Loss of life by civilians
 * Destruction of person's homes
 * Destruction of national monuments
 * Destruction of hospitals
+    * [Chidren's Regional Hospital, Lugansk, Damaged. 18 August 2014](https://www.youtube.com/watch?v=dq0Wb6iMmHg&feature=youtu.be)
 * Shelling of schools
-    * [School damaged in CHeremushki; Casualties](http://lifenews.ru/news/138644)
+    * [School damaged in Cheremushki; Casualties. 19 August 2014](http://lifenews.ru/news/138644)
 * Attacks on churches
+    * [Churches attacked by militias, W. Ukraine](https://www.youtube.com/watch?v=i9lG5nQtO0I)
 
 ### Focus: Maidan in Kiev, around 9 August
 
