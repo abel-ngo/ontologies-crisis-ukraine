@@ -124,7 +124,7 @@ Abel NGO - Instance Ontologies - Crisis in Ukraine
 
 ### Definition of phrase, "Maidan"
 
-* Event: Euromaidan - see _Focus: Euromaidan_
+* Social Event: Euromaidan - see _Focus: Euromaidan_
 * Concept: Anti-Maidan [[ref](http://en.wikipedia.org.advanc.io/wiki/Anti-Maidan)]
 
 #### Locale: _Maidan Nezalezhnosti_ (Independence Square) Ukraine
